@@ -1,4 +1,9 @@
-                                                          -*- text -*-
+gnutls.c에서 SSL/TLS 관련 부분 삭제\
+HTTPS, OPEN SSL, FTPS, SSL/TLS와 관련된 부분을 제거\
+프록시 서버 관련 부분 제거
+
+
+-*- text -*-
 GNU Wget
 ========
                   Current Web home: https://www.gnu.org/software/wget/
